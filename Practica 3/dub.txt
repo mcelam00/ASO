@@ -1,0 +1,3 @@
+Con pipe le decimos que la entrada y salida estandar serian el pipe 1 y el pipe 0
+dub2 nos sirve para cambiar la entra y salida por los descriptores que nosotros queramos, es decir si por defecto el pipe de descritura es 1 le estoy diciendo que la salida estandear sera el dub de 1.
+Nos permite cambiar ese 1 y 0 por el descriptor que nosotros queramos
