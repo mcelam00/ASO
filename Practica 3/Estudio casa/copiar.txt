@@ -1,0 +1,3 @@
+Hola Mundo
+texto que va a ser copiado en los 4096 bytes del buffer mediante el programa Ejercicio15.
+All rights Reserved.
